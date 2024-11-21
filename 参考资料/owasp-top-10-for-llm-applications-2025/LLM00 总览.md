@@ -1,6 +1,6 @@
-# 总览
+# LLM00:总览
 
-> https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
+> 下载链接：**https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/**
 
 ------
 
